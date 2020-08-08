@@ -1,0 +1,5 @@
+This program has been created using Microsoft Visual studio 2019.
+This is a console application.
+
+If you have installed VS 2017/2019 or above, you can directly open the solution and Run the program
+to see the result of the give problem statement in ReadMe.
