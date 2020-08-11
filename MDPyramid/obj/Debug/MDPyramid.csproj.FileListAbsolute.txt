@@ -1,0 +1,7 @@
+C:\POC\Danske\MDPyramid\MDPyramid\bin\Debug\MDPyramid.exe.config
+C:\POC\Danske\MDPyramid\MDPyramid\bin\Debug\MDPyramid.exe
+C:\POC\Danske\MDPyramid\MDPyramid\bin\Debug\MDPyramid.pdb
+C:\POC\Danske\MDPyramid\MDPyramid\obj\Debug\MDPyramid.csprojAssemblyReference.cache
+C:\POC\Danske\MDPyramid\MDPyramid\obj\Debug\MDPyramid.csproj.CoreCompileInputs.cache
+C:\POC\Danske\MDPyramid\MDPyramid\obj\Debug\MDPyramid.exe
+C:\POC\Danske\MDPyramid\MDPyramid\obj\Debug\MDPyramid.pdb
